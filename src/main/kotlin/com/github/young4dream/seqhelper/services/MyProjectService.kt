@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.young4dream.seqhelper.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.young4dream.seqhelper.MyBundle
 
 class MyProjectService(project: Project) {
 
